@@ -1,3 +1,3 @@
-# yelpcamp
+# personal projects website 
 
-This is my yelp camp project for web developer bootcamp.
+This is my personal projects website.
