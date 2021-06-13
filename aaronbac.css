@@ -320,24 +320,21 @@ li:hover{
 }
 
 #tools p:nth-of-type(2){
-    color: #ff0000;
+    color: #0353a4 ;
 }
 
 #tools p:nth-of-type(3){
-    color: #147df5;
+    color: #a2aaad;
 }
 
 #tools p:nth-of-type(4){
-    color: #be0aff;
+    color: #f06529;
 }
 
 #tools p:nth-of-type(5){
-    color: #a1ff0a;
+    color: #2965f1;
 }
 
-#tools p:nth-of-type(6){
-    color: #ff8700;
-}
 
 
 #skills{
@@ -362,19 +359,19 @@ flex-wrap: wrap;
     
 }
 #skills p:nth-of-type(2){
-    color: #006ba6;
+    color: #f06529;
 }
 #skills p:nth-of-type(3){
-    color: #0496ff;
+    color: #2965f1;
 }
 #skills p:nth-of-type(4){
-    color: #ffbc42;
+    color: #F0DB4F;
 }
 #skills p:nth-of-type(5){
-    color: #d81159;
+    color: black;
 }
 #skills p:nth-of-type(6){
-    color: #8f2d56;
+    color: white;
 }
 
 #aboutText{
@@ -386,7 +383,7 @@ flex-wrap: wrap;
     align-items: center;
     padding: 0px;
     }
-    
+
 @media (max-width:800px){
     #aboutText{
         font-size: 16px;
@@ -402,7 +399,7 @@ flex-wrap: wrap;
 
 @media(max-height:650px){
     #aboutText p{
-        font-size: 8px;
+        font-size: 10px;
     }
 }
 
