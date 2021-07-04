@@ -59,6 +59,7 @@ nav{
     color: white;
 }
 
+
 @media (max-width:450px){
     #navbar li{
         display: flex;
@@ -314,6 +315,12 @@ li:hover{
     padding: 5px;
 }
 
+@media (max-width:450px){
+    #tools p {
+        font-size: 12px;
+    }
+}
+
 #tools p:nth-of-type(1){
     color: black;
     font-weight: bold;
@@ -351,6 +358,12 @@ height:auto;
 width:auto;
 display: flex;
 flex-wrap: wrap;
+}
+
+@media (max-width:450px){
+    #skills p {
+        font-size: 12px;
+    }
 }
 
 #skills p:nth-of-type(1){
